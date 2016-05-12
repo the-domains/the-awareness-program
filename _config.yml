@@ -1,0 +1,28 @@
+name: The Awareness Program
+favicon: null
+layout_spectrum: 0.7776017140131444
+typography_spectrum: 0.94229626073502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7253396851010621
+  lightness: 0.8967251307331026
+  saturation: 0.9395686131902039
+  rhythmicContrast: 0.5123484884388745
+purpose: []
