@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Awareness Program]]></title>
+        <description><![CDATA[The Awareness Program]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 06:52:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Patent Application Shows Device That's Injected Directly Into Your Eyeball To Improve Vision]]></title>
+            <description><![CDATA[<article><h1>Google Patent Application Shows Device That's Injected Directly Into Your Eyeball To Improve Vision</h1><p>Google has had a penchant for far out tech that never reaches the market. Here's the latest.</p><img src="http://blogs-images.forbes.com/aarontilley/files/2016/04/Screen-Shot-2016-04-28-at-10.05.54-AM-1200x685.png"></article>]]></description>
+            <link>http://www.forbes.com/sites/aarontilley/2016/04/28/google-device-eyeball/#5dfcd31e4141</link>
+            <guid isPermaLink="false">7e639570-ced3-42ce-84dd-3298b2395637</guid>
+            <pubDate>Thu, 12 May 2016 06:51:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
