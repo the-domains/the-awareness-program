@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Awareness Program]]></title>
+        <description><![CDATA[The Awareness Program]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 06:38:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Patent Application Shows Device That's Injected Directly Into Your Eyeball To Improve Vision]]></title>
+            <description><![CDATA[<h1>Google Patent Application Shows Device That's Injected Directly Into Your Eyeball To Improve Vision</h1>]]></description>
+            <link>undefinedgoogle-patent-application-shows-device-thats-injected-direc/index.html</link>
+            <guid isPermaLink="false">d706b44e-f6a9-4a2b-b9e1-826977887430</guid>
+            <pubDate>Thu, 12 May 2016 06:38:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
